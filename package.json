@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Igor Moskalev",
 	"description": "FreeCodeCamp Managing Packages with NPM study project",
+	"keywords": ["freecodecamp", "npm", "study"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
